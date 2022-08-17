@@ -1,13 +1,13 @@
-name = "Illager Expansion (Archived)"
+name = "Illager Expansion [Rematch]"
 filename = "illager_expansion-0.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ADOk8Swk/versions/0.1.5/illager_expansion-0.1.5.jar"
+url = "https://cdn.modrinth.com/data/BANfajzS/versions/1.18.2-0.1.5-patched/illager_expansion-0.1.5.jar"
 hash-format = "sha1"
-hash = "3c2bcfe351153ef3c728530291f5e20978c221d6"
+hash = "f69267af7cc278bafdfdb73adb36f191c591f0d5"
 
 [update]
 [update.modrinth]
-mod-id = "ADOk8Swk"
-version = "8dFbeGfl"
+mod-id = "BANfajzS"
+version = "TpMaPARk"
